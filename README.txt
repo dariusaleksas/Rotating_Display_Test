@@ -1,0 +1,1 @@
+Rotating Display test application. For more information please read the description.
